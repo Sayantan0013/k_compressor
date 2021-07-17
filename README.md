@@ -1,4 +1,4 @@
 # k_compressor
 Image compressor Using k-mean 
 
-For more description please check IDP Project presentation file.
+For more details please check IDP Project presentation file.
